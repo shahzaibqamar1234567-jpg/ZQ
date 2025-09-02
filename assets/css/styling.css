@@ -1,0 +1,41 @@
+
+
+body ,h1,h2,h3,h4,h5,h6{
+    color:#2A3855;
+}
+
+.call{
+    background-color: #2A3855;
+}
+header{
+background-image:url(../images/header-1.jpg);
+width: 100%;
+background-size: cover;
+}
+.main-heading{
+font-size: 68px;
+
+
+}
+.main-contant{
+    padding-top: 140px;
+}
+.main-btn{
+    padding-bottom: 130px;
+}
+.line{
+    width: 100px;
+    height: 4px;
+    margin: auto;
+    background-color: #6a6a6a;
+}
+.Walcome-icon {
+border-radius: 100%;
+background-color: #fafafa;
+border: 2px solid #e1e1e1;
+
+}
+.video-img{
+    width: 100%;
+    height: 100vh;
+}
