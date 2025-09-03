@@ -3,7 +3,9 @@
 body ,h1,h2,h3,h4,h5,h6{
     color:#2A3855;
 }
-
+body,p{
+    color: #6a6a6a;
+}
 .call{
     background-color: #2A3855;
 }
@@ -24,18 +26,23 @@ font-size: 68px;
     padding-bottom: 130px;
 }
 .line{
-    width: 100px;
-    height: 4px;
-    margin: auto;
-    background-color: #6a6a6a;
+    width: 60px;
+    height: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #2A3855;
 }
 .Walcome-icon {
 border-radius: 100%;
 background-color: #fafafa;
+color:#2A3855;
 border: 2px solid #e1e1e1;
 
 }
 .video-img{
     width: 100%;
     height: 100vh;
+}
+.Service{
+    background-color:#ffffff;
 }
